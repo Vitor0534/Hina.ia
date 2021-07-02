@@ -14,6 +14,7 @@ The project aims to use the concepts of AI from an educational manga.
 
 The file "Hina.ia_lite" is the manga. He introduces the initial concepts and discusses them, after which a commented Python code about the iris classification is developed.
 
-![]("banner_Hina(2).png")
+![](banner_Hina(2).png)
+
 
 
