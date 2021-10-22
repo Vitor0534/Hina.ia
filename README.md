@@ -2,7 +2,7 @@
 
 ## Português
 Este repositório contém o projeto Hina.ia: um mangá sobre Inteligência Artificial. 
-Criado por: Lucas Maceo da Silva (github: https://github.com/LuckasMacedo2) e Vitor de Almeida Silva.
+Criado por: Lucas Macedo da Silva (github: https://github.com/LuckasMacedo2) e Vitor de Almeida Silva.
 O projeto tem como objetivo ensinar os conceitos de IA a partir de um mangá educacional.
 
 O arquivo "Hina.ia_lite" é o mangá. Ele apresenta os conceitos iniciais e os discute, logo após é desenvolvido um código em Python comentado sobre a classificação de íris.
